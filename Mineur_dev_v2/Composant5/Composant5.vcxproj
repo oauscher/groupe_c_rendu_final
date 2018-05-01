@@ -102,7 +102,7 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>COMPOSANT5_EXPORTS;WIN32;_WINDOWS;_DEBUG;_USRDLL</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>$(SolutionDir)interfaces;$(SolutionDir)includes</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)\interfaces;$(SolutionDir)\includes</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>

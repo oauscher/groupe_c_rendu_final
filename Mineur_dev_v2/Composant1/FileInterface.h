@@ -10,7 +10,6 @@
 #define FILEINTERFACE_INTERFACE __declspec(dllimport)
 #endif
 
-#error include
 #include "json.hpp"
 #include "Bloc.h"
 

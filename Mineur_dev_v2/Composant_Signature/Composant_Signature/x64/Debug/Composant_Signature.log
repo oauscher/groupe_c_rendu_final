@@ -1,0 +1,28 @@
+﻿  uECC.cpp
+c:\users\admin\desktop\projet composant\groupe_c_rendu_final\mineur_dev_v2\composant_signature\composant_signature\uecc.cpp(257): warning C4244: 'return' : conversion de 'uECC_word_t' en 'bitcount_t', perte possible de données
+c:\users\admin\desktop\projet composant\groupe_c_rendu_final\mineur_dev_v2\composant_signature\composant_signature\uecc.cpp(310): warning C4244: 'return' : conversion de 'uECC_word_t' en 'cmpresult_t', perte possible de données
+c:\users\admin\desktop\projet composant\groupe_c_rendu_final\mineur_dev_v2\composant_signature\composant_signature\curve-specific.inc(390): warning C4244: '+=' : conversion de 'uECC_word_t' en 'int', perte possible de données
+c:\users\admin\desktop\projet composant\groupe_c_rendu_final\mineur_dev_v2\composant_signature\composant_signature\curve-specific.inc(394): warning C4244: '+=' : conversion de 'uECC_word_t' en 'int', perte possible de données
+c:\users\admin\desktop\projet composant\groupe_c_rendu_final\mineur_dev_v2\composant_signature\composant_signature\curve-specific.inc(397): warning C4244: '-=' : conversion de 'uECC_word_t' en 'int', perte possible de données
+c:\users\admin\desktop\projet composant\groupe_c_rendu_final\mineur_dev_v2\composant_signature\composant_signature\curve-specific.inc(707): warning C4244: '-=' : conversion de 'uECC_word_t' en 'int', perte possible de données
+c:\users\admin\desktop\projet composant\groupe_c_rendu_final\mineur_dev_v2\composant_signature\composant_signature\curve-specific.inc(713): warning C4244: '-=' : conversion de 'uECC_word_t' en 'int', perte possible de données
+c:\users\admin\desktop\projet composant\groupe_c_rendu_final\mineur_dev_v2\composant_signature\composant_signature\curve-specific.inc(717): warning C4244: '+=' : conversion de 'uECC_word_t' en 'int', perte possible de données
+c:\users\admin\desktop\projet composant\groupe_c_rendu_final\mineur_dev_v2\composant_signature\composant_signature\curve-specific.inc(994): warning C4244: '+=' : conversion de 'uECC_word_t' en 'int', perte possible de données
+c:\users\admin\desktop\projet composant\groupe_c_rendu_final\mineur_dev_v2\composant_signature\composant_signature\curve-specific.inc(1000): warning C4244: '+=' : conversion de 'uECC_word_t' en 'int', perte possible de données
+c:\users\admin\desktop\projet composant\groupe_c_rendu_final\mineur_dev_v2\composant_signature\composant_signature\curve-specific.inc(1001): warning C4244: '+=' : conversion de 'uECC_word_t' en 'int', perte possible de données
+c:\users\admin\desktop\projet composant\groupe_c_rendu_final\mineur_dev_v2\composant_signature\composant_signature\curve-specific.inc(1008): warning C4244: '+=' : conversion de 'uECC_word_t' en 'int', perte possible de données
+c:\users\admin\desktop\projet composant\groupe_c_rendu_final\mineur_dev_v2\composant_signature\composant_signature\curve-specific.inc(1015): warning C4244: '+=' : conversion de 'uECC_word_t' en 'int', perte possible de données
+c:\users\admin\desktop\projet composant\groupe_c_rendu_final\mineur_dev_v2\composant_signature\composant_signature\curve-specific.inc(1022): warning C4244: '-=' : conversion de 'uECC_word_t' en 'int', perte possible de données
+c:\users\admin\desktop\projet composant\groupe_c_rendu_final\mineur_dev_v2\composant_signature\composant_signature\curve-specific.inc(1029): warning C4244: '-=' : conversion de 'uECC_word_t' en 'int', perte possible de données
+c:\users\admin\desktop\projet composant\groupe_c_rendu_final\mineur_dev_v2\composant_signature\composant_signature\curve-specific.inc(1036): warning C4244: '-=' : conversion de 'uECC_word_t' en 'int', perte possible de données
+c:\users\admin\desktop\projet composant\groupe_c_rendu_final\mineur_dev_v2\composant_signature\composant_signature\curve-specific.inc(1043): warning C4244: '-=' : conversion de 'uECC_word_t' en 'int', perte possible de données
+c:\users\admin\desktop\projet composant\groupe_c_rendu_final\mineur_dev_v2\composant_signature\composant_signature\curve-specific.inc(1047): warning C4244: '+=' : conversion de 'uECC_word_t' en 'int', perte possible de données
+c:\users\admin\desktop\projet composant\groupe_c_rendu_final\mineur_dev_v2\composant_signature\composant_signature\curve-specific.inc(1051): warning C4244: '-=' : conversion de 'uECC_word_t' en 'int', perte possible de données
+c:\users\admin\desktop\projet composant\groupe_c_rendu_final\mineur_dev_v2\composant_signature\composant_signature\uecc.cpp(960): warning C4244: '=' : conversion de 'uECC_word_t' en 'uint8_t', perte possible de données
+  Signature.cpp
+  main.cpp
+  KeyChain.cpp
+  Génération de code en cours...
+     Création de la bibliothèque C:\Users\Admin\Desktop\Projet Composant\groupe_c_rendu_final\Mineur_dev_v2\x64\Debug\Composant_Signature.lib et de l'objet C:\Users\Admin\Desktop\Projet Composant\groupe_c_rendu_final\Mineur_dev_v2\x64\Debug\Composant_Signature.exp
+  Composant_Signature.vcxproj -> C:\Users\Admin\Desktop\Projet Composant\groupe_c_rendu_final\Mineur_dev_v2\x64\Debug\Composant_Signature.dll
+  Composant_Signature.vcxproj -> C:\Users\Admin\Desktop\Projet Composant\groupe_c_rendu_final\Mineur_dev_v2\x64\Debug\Composant_Signature.pdb (Full PDB)
